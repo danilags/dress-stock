@@ -1,0 +1,108 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Warzani Plain Cold Shoulder Mini Dress",
+      "price": 129000,
+      "description": "Warna Benhur, Black, Broken White, Maroon, dan Red (kiri ke kanan)",
+      "color": "['Black', 'Dusty Pink', 'Navy']",
+      "size": "['S', 'M', 'L']",
+      "stock": 5,
+      "material": "['Katun', 'Serena']",
+      "returned": true,
+      "testable": true,
+      "image_url": "https://ss-imager-prod.freetls.fastly.net/www-images/480/product_images/576884743811eda53f939cd39c0d24bc.jpg",
+      "loves": 984
+    },
+    {
+      "id": 2,
+      "title": "Ryodomiya Plain Collar Mini Dress",
+      "price": 139000,
+      "description": "Baby Pink, Light Blue, dan Maroon (kiri ke kanan)",
+      "color": "['Black', 'Dusty Pink']",
+      "size": "['S', 'M', 'L']",
+      "stock": 18,
+      "material": "['Katun']",
+      "returned": true,
+      "testable": true,
+      "image_url": "https://ss-imager-prod.freetls.fastly.net/www-images/480/product_images/36e7398d10728685b69517f74cef3f18.jpg",
+      "loves": 984
+    },
+    {
+      "id": 3,
+      "title": "Shioltiya Plain Over All Mini Dress",
+      "price": 125000,
+      "description": "Warna Black, Brick, Choco, dan Grey",
+      "color": "['Black', 'Dusty Pink']",
+      "size": "['S', 'M', 'L']",
+      "stock": 25,
+      "material": "['Katun Twill']",
+      "returned": true,
+      "testable": true,
+      "image_url": "https://ss-imager-prod.freetls.fastly.net/www-images/480/product_images/5e8e05cd35e4b1a2c9f615e62a212458.jpg",
+      "loves": 985
+    }
+  ],
+  "sizes": [
+    {
+      "id": 1,
+      "value": "S",
+      "notes": [
+        {
+          "category": "Lingkar dada",
+          "number": "90 cm"
+        },
+        {
+          "category": "Lebar bahu",
+          "number": "36 cm"
+        },
+        {
+          "category": "Panjang Lengan",
+          "number": "19 cm"
+        },
+        {
+          "category": "Lingkar lengan",
+          "number": "31 cm"
+        },
+        {
+          "category": "Panjang",
+          "number": "90 cm"
+        },
+        {
+          "category": "Lingkar pinggang",
+          "number": "94 cm"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "value": "M",
+      "notes": [
+        {
+          "category": "Lingkar dada",
+          "number": "94 cm"
+        },
+        {
+          "category": "Lebar bahu",
+          "number": "37 cm"
+        },
+        {
+          "category": "Lebar bahu",
+          "number": "37 cm"
+        },
+        {
+          "category": "Panjang Lengan",
+          "number": "20 cm"
+        },
+        {
+          "category": "Panjang",
+          "number": "90 cm"
+        },
+        {
+          "category": "Lingkar pinggang",
+          "number": "96 cm"
+        }
+      ]
+    }
+  ]
+}
