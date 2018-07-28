@@ -6,6 +6,7 @@ import {
 import MainApp from './MainApp';
 import HomePage from './HomePage';
 import DetailsPage from './DetailsPage';
+import Dasboadrd from './Dashboard';
 import RouteWithSubRoutes from './Route';
 
 const routes = [
@@ -21,6 +22,11 @@ const routes = [
         exact:true,
         path:'/products/:id/:slug',
         component: DetailsPage
+      },
+      {
+        exact:true,
+        path:'/admin/add-product',
+        component: Dasboadrd
       },
     ]
   }
