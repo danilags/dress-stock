@@ -5,10 +5,21 @@
       "title": "Warzani Plain Cold Shoulder Mini Dress",
       "price": 129000,
       "description": "Warna Benhur, Black, Broken White, Maroon, dan Red (kiri ke kanan)",
-      "color": "['Black', 'Dusty Pink', 'Navy']",
-      "size": "['S', 'M', 'L']",
+      "colors": [
+        "Black",
+        "Dusty Pink",
+        "Navy"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
       "stock": 5,
-      "material": "['Katun', 'Serena']",
+      "material": [
+        "Katun",
+        "Serena"
+      ],
       "returned": true,
       "testable": true,
       "image_url": "https://ss-imager-prod.freetls.fastly.net/www-images/480/product_images/576884743811eda53f939cd39c0d24bc.jpg",
@@ -19,10 +30,20 @@
       "title": "Ryodomiya Plain Collar Mini Dress",
       "price": 139000,
       "description": "Baby Pink, Light Blue, dan Maroon (kiri ke kanan)",
-      "color": "['Black', 'Dusty Pink']",
-      "size": "['S', 'M', 'L']",
+      "colors": [
+        "Black",
+        "Dusty Pink",
+        "Navy"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
       "stock": 18,
-      "material": "['Katun']",
+      "material": [
+        "Katun"
+      ],
       "returned": true,
       "testable": true,
       "image_url": "https://ss-imager-prod.freetls.fastly.net/www-images/480/product_images/36e7398d10728685b69517f74cef3f18.jpg",
@@ -33,14 +54,75 @@
       "title": "Shioltiya Plain Over All Mini Dress",
       "price": 125000,
       "description": "Warna Black, Brick, Choco, dan Grey",
-      "color": "['Black', 'Dusty Pink']",
-      "size": "['S', 'M', 'L']",
+      "colors": [
+        "Black",
+        "Dusty Pink",
+        "Navy"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
       "stock": 25,
-      "material": "['Katun Twill']",
+      "material": [
+        "Katun Twill"
+      ],
       "returned": true,
       "testable": true,
       "image_url": "https://ss-imager-prod.freetls.fastly.net/www-images/480/product_images/5e8e05cd35e4b1a2c9f615e62a212458.jpg",
       "loves": 985
+    },
+    {
+      "title": "Jeykie Line Casual Blouse",
+      "price": "92000",
+      "description": "Lorem ipsum dolor sir amet",
+      "stock": "9",
+      "image_url": "https://ss-imager-prod.freetls.fastly.net/www-images/480/product_images/5e8e05cd35e4b1a2c9f615e62a212458.jpg",
+      "sizes": [
+        "M",
+        "XL",
+        "S"
+      ],
+      "colors": [
+        "Yellow",
+        "Maroon",
+        "Turquoise"
+      ],
+      "material": [
+        "Georgette",
+        "Satin"
+      ],
+      "returned": false,
+      "testable": true,
+      "loves": 0,
+      "id": 4
+    },
+    {
+      "title": "Kunaloyza Plain Collar Blouse",
+      "price": "93000",
+      "description": "Lorem ipsum dolor sir amet",
+      "stock": "12",
+      "image_url": "https://ss-imager-prod.freetls.fastly.net/www-images/480/product_images/efcb20cf6de2fa6039d22e2e0641a9e2.jpg",
+      "sizes": [
+        "S",
+        "XXL",
+        "M"
+      ],
+      "colors": [
+        "Yellow",
+        "Blue"
+      ],
+      "material": [
+        "Georgette",
+        "Satin",
+        "Crepe"
+      ],
+      "returned": true,
+      "testable": true,
+      "loves": 0,
+      "id": 5
     }
   ],
   "sizes": [
