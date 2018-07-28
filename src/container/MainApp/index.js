@@ -9,7 +9,9 @@ class MainApp extends React.Component {
     return (
       <MainWrapper>
         <NavBar>
+          <a href="/"><h4>Home</h4></a>
           <img src={`https://ss-assets-stag.global.ssl.fastly.net/assets/images/logo-ss-34f2d4dd.png`} className="App-logo" alt="logo" />
+          <a href="/admin/add-product"><h4>Admin</h4></a>
         </NavBar>
         <Container>
           <Switch>
