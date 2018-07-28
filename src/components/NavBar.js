@@ -3,7 +3,7 @@ import styled from 'styled-components';
 const NavBar = styled.nav`
   height: 100px;
   display: flex;
-  justify-content: center;
+  justify-content: space-evenly;
   align-items: center;
   padding: 1rem 0;
   position: fixed;
