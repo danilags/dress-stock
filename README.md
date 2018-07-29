@@ -35,26 +35,14 @@ Application using json server https://github.com/typicode/json-server
 The app using react, reactstrap, styled-components, redux, redux-logger, redux-thunk, and react-router-dom.
 
 ## How to use
-#### DEVELOPMENT
+
 ```
 > git clone https://github.com/danilags/dress-stock
 > npm install
+> npm install -g json-server
 > node server.js // running json server REST API 
 > npm start
 ```
-
-#### TEST
-```
-> npm install
-> npm test
-```
-
-#### PRODUCTION
-```
-> npm install
-> npm run build
-```
-
 
 #### Authors
 |Name           |Github                          |
